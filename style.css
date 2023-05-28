@@ -36,8 +36,7 @@ position: relative;
 
 .dark .container{
     background-color: #33393e;
-    box-shadow:  25px 25px 20px rgba(0,0,0, 0.25),
-    -15px -15px 20px rgba(255, 255,255, 0.1);
+    box-shadow:  25px 25px 20px rgba(0,0,0, 0.25);
 }
 
 #input{
