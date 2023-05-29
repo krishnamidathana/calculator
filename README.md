@@ -1,2 +1,2 @@
 # calculator
-krishna mohan portfolio
+calculator
