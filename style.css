@@ -135,7 +135,11 @@ span:active{
 .dark .change{
     background-color:yellow;
 }
-
+@media (max-width:360px) {
+       .change{
+        right: 170px;
+       }
+}
 
 
 
