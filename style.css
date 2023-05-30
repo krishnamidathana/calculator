@@ -113,7 +113,7 @@ span{
 
 span:active{
     box-shadow:   inset 7px 5px 10px rgba(0,0,0, 0.1),
-    inset -5px -5px 10px rgba(228, 30, 30, 0.733); 
+    inset -5px -5px 10px #fffb; 
    
 }
 
