@@ -99,7 +99,7 @@ span{
     border: 1px solid #edf1f4;
      font-size: 20px;
     user-select: none;
-    transition-duration: 8s;
+    
     
 }
 
@@ -113,7 +113,7 @@ span{
 
 span:active{
     box-shadow:   inset 7px 5px 10px rgba(0,0,0, 0.1),
-    inset -5px -5px 10px #fffb; 
+    inset -5px -5px 10px rgba(187, 12, 12, 0.733)
    
 }
 
