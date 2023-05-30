@@ -138,6 +138,7 @@ span:active{
 @media (max-width:360px) {
        .change{
         right: 170px;
+        top: 60px;
        }
 }
 
