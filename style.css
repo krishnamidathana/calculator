@@ -127,11 +127,12 @@ span:active{
     height: 20px;
     width: 20px;
     border-radius: 80px;
-position:absolute;
  margin-top: -30px;
       display: flex;
     justify-content: center;
-    align-items: top;
+    align-items: center;
+        cursor: pointer; 
+    transition: background-color 0.3s ease; 
 }
 
 .dark .change{
